@@ -1,5 +1,5 @@
 <!-- Encabezado principal con banner personalizado (opcional) -->
-<h1 align="center">👋 ¡Hola! Soy Adolfo Jiménez</h1>
+<h1 align="center">👋 ¡Hola! Soy Adolfo Herrera</h1>
 <h3 align="center">Ingeniero en Sistemas Informáticos | Desarrollador Web | Automatizador | Docente</h3>
 
 <!-- Badges de tecnologías y contacto -->
@@ -58,7 +58,7 @@
 ## 📫 ¿Cómo contactarme?
 
 - 📸 Instagram: [@adolfo.id](https://www.instagram.com/adolfo.id)
-- 📘 Facebook: [Adolfo Jiménez](https://www.facebook.com/05adolfo/)
+- 📘 Facebook: [Adolfo Herrera](https://www.facebook.com/05adolfo/)
 - 🎵 TikTok: [@adolfo_id](https://www.tiktok.com/@adolfo_id)
 - 💼 LinkedIn: *[si tienes, agrégalo aquí]*
 
