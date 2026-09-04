@@ -60,7 +60,7 @@
 - 📸 Instagram: [@adolfo.id](https://www.instagram.com/adolfo.id)
 - 📘 Facebook: [Adolfo Herrera](https://www.facebook.com/05adolfo/)
 - 🎵 TikTok: [@adolfo_id](https://www.tiktok.com/@adolfo_id)
-- 💼 LinkedIn: *[si tienes, agrégalo aquí]*
+- 💼 LinkedIn: 
 
 ---
 
